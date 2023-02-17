@@ -1,4 +1,4 @@
-function getChartData() {
+export function getChartData() {
   return [
     {
       columns: [
